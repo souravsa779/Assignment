@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a451eeaf-fe5b-4a9a-b117-48b6662a46cb": {
+      "ProjectGuid": "a451eeaf-fe5b-4a9a-b117-48b6662a46cb",
+      "DisplayName": "LIT_ORG",
+      "ColorIndex": 0
+    },
+    "40320bfd-a220-48a9-9564-6ad8cb91e6c7": {
+      "ProjectGuid": "40320bfd-a220-48a9-9564-6ad8cb91e6c7",
+      "DisplayName": "LIT_WARE2",
+      "ColorIndex": 1
+    },
+    "5db7905f-1e1e-4bc7-afde-fe0d4b38de8b": {
+      "ProjectGuid": "5db7905f-1e1e-4bc7-afde-fe0d4b38de8b",
+      "DisplayName": "LITWARE_Class",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
