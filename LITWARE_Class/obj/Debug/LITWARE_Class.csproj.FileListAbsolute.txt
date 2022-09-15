@@ -1,5 +1,0 @@
-C:\Users\KIIT\Desktop\CAPG.NET\LITWARE_Class\bin\Debug\LITWARE_Class.dll
-C:\Users\KIIT\Desktop\CAPG.NET\LITWARE_Class\bin\Debug\LITWARE_Class.pdb
-C:\Users\KIIT\Desktop\CAPG.NET\LITWARE_Class\obj\Debug\LITWARE_Class.csproj.CoreCompileInputs.cache
-C:\Users\KIIT\Desktop\CAPG.NET\LITWARE_Class\obj\Debug\LITWARE_Class.dll
-C:\Users\KIIT\Desktop\CAPG.NET\LITWARE_Class\obj\Debug\LITWARE_Class.pdb
