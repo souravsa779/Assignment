@@ -1,0 +1,11 @@
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\bin\Debug\LIT_WARE2.exe.config
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\bin\Debug\LIT_WARE2.exe
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\bin\Debug\LIT_WARE2.pdb
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\obj\Debug\LIT_WARE2.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\obj\Debug\LIT_WARE2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\obj\Debug\LIT_WARE2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\obj\Debug\LIT_WARE2.exe
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\obj\Debug\LIT_WARE2.pdb
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\bin\Debug\LITWARE_Class.dll
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\bin\Debug\LITWARE_Class.pdb
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_WARE2\obj\Debug\LIT_WARE2.csproj.CopyComplete

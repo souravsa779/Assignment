@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\bin\Debug\LIT_ORG.exe.config
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\bin\Debug\LIT_ORG.exe
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\bin\Debug\LIT_ORG.pdb
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\obj\Debug\LIT_ORG.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\obj\Debug\LIT_ORG.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\obj\Debug\LIT_ORG.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\obj\Debug\LIT_ORG.exe
+C:\Users\KIIT\Desktop\CAPG.NET\LIT_ORG\obj\Debug\LIT_ORG.pdb
